@@ -1,13 +1,11 @@
 
-# React component for embedding auto-resizing iframes
+# React component for auto-resizing iframes
+
+React component for embedding auto-resizing iframes, based on [`iframe-resizer`](https://github.com/davidjbradshaw/iframe-resizer) version `2.8.10` by David Bradshaw.
 
 ## Pre-release notice
 
 This is a pre-release of a package belonging to the Lucify platform. It has been published merely to satisfy dependencies of other packages. Any APIs may change without notice.
-
-## About
-
-React component for embedding auto-resizing iframes, based on [`iframe-resizer`](https://github.com/davidjbradshaw/iframe-resizer) version `2.8.10` by David Bradshaw.
 
 ## Usage 
 
