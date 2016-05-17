@@ -1,7 +1,7 @@
 {
   "name": "lucify-iframe-embed",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React component for auto-resizing iframes",
   "main": "lib/iframe-embed.js",
   "scripts": {
